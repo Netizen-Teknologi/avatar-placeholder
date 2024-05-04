@@ -1,0 +1,29 @@
+{
+  "name": "@netizen-teknologi/avatar-placeholder",
+  "version": "1.0.1",
+  "description": "A package to generate avatar/initial name images using JavaScript",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "javascript"
+  ],
+  "author": "rinaldycodes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Netizen-Teknologi/avatar-placeholder.git"
+  },
+  "homepage": "https://github.com/Netizen-Teknologi/avatar-placeholder#readme",
+  "bugs": {
+    "url": "https://github.com/Netizen-Teknologi/avatar-placeholder/issues"
+  },
+  "dependencies": {
+    "@babel/core": "^7.15.5",
+    "react": "^17.0.2",
+    "react-native": "^0.66.3"
+  }
+}
