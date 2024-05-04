@@ -7,7 +7,7 @@ This package allows you to create avatar images dynamically based on initials or
 This package wrapped using api avatar placeholder
 
 ## Website avatar placeholder
-[Example](https://avatar-placeholder.iran.liara.run/)
+[avatar-placeholder](https://avatar-placeholder.iran.liara.run/)
 
 
 ## Installation
